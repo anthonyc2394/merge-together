@@ -1,7 +1,7 @@
-Red  
-Orange  
-Yellow  
-Green  
-Grey Blue
-Indigo  
-Violet  
+Red 🟥  
+Orange 🟧  
+Yellow 🟨  
+Green 🟩  
+Grey Blue 🟦
+Indigo   
+Violet 🟪  
