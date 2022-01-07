@@ -2,6 +2,6 @@ Red 🟥
 Orange 🟧  
 Yellow 🟨  
 Green 🟩  
-Grey Blue 🟦
+Grey Blue 🟦  
 Indigo   
 Violet 🟪  
