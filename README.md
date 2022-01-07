@@ -1,1 +1,7 @@
 
+
+
+
+blue
+indigo
+violet
