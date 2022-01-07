@@ -2,6 +2,6 @@ Red
 Orange  
 Yellow  
 Green  
-Sky Blue
+Grey Blue
 Indigo  
 Violet  
